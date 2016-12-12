@@ -1,0 +1,38 @@
+[
+  {
+    "key":   "suspend",
+    "text":  "Suspend",
+    "items": null
+  },
+  {
+    "key":   "modules",
+    "text":  "Modules",
+    "items": [
+      {
+        "key":   "print_module",
+        "text":  "Print Module",
+        "items": null
+      },
+      {
+        "key":   "analytics_module",
+        "text":  "Advanced Analytics Module",
+        "items": null
+      },
+      {
+        "key":   "survey_module",
+        "text":  "Client Survey",
+        "items": null
+      },
+      {
+        "key":   "tours_module",
+        "text":  "Tours Module",
+        "items": null
+      },
+      {
+        "key":   "audio_module",
+        "text":  "Audio",
+        "items": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,17 @@
+.OptionsList {
+  text-align: left;
+}
+
+.OptionsList li {
+  margin-bottom: 10px;
+}
+
+.OptionsList-unordered {
+  margin-top: 10px;
+  list-style: none;
+}
+
+.OptionsList-ordered {
+  display: inline-block;
+  position: relative;
+}
