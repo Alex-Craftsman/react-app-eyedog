@@ -1,9 +1,5 @@
-{
-  "suspend":          true,
-  "modules":          null,
-  "print_module":     false,
-  "analytics_module": true,
-  "survey_module":    false,
-  "tours_module":     true,
-  "audio_module":     false
-}
+[
+  "suspend",
+  "analytics_module",
+  "tours_module"
+]
